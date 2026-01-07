@@ -40,8 +40,7 @@
     <th align="left">Frontend Development</th>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />      
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
@@ -49,8 +48,7 @@
   <tr>
     <th align="left">Backend & Frameworks</th>
     <td>
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-      
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />  
     </td>
   </tr>
 
@@ -79,28 +77,22 @@
   </tr>
 
   <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
+    <td></td>
     <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
     </td>
     <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
     </td>
     <td>
-      🔗 <a href="https://github.com/veerandrakumark/ech" target="_blank">View →</a>
     </td>
   </tr>
 
   <tr>
-    <td><b>VULNERABILITY SCANNER</b><br><i>Real-time Web Application Security Scanner</i></td>
+    <td></td>
     <td>
-      A collaborative project to build a real-time vulnerability scanner for web applications with comprehensive reporting and dashboard features.
     </td>
     <td>
-      React.js • Tailwind CSS • GitHub
     </td>
     <td>
-      🔗 <a href="https://github.com/veerandrakumark/vulnerability-scanner" target="_blank">View →</a>
     </td>
   </tr>
 
@@ -111,12 +103,11 @@
     <td>
     </td>
     <td>
-      🔗 <a href="https://github.com/veerandrakumark/devconnect" target="_blank">View →</a>
     </td>
   </tr>
 
   <tr>
-    <td><b>EXPENSE TRACKER</b><br><i></i></td>
+    <td></td>
     <td>
      
     </td>
@@ -124,7 +115,6 @@
      
     </td>
     <td>
-      🔗 <a href="https://github.com/veerandrakumark/expense-tracker" target="_blank">View →</a>
     </td>
   </tr>
 </table>
