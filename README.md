@@ -109,10 +109,8 @@
   <tr>
     <td></td>
     <td>
-     
     </td>
-    <td>
-     
+    <td>   
     </td>
     <td>
     </td>
@@ -127,7 +125,7 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 100+ | 1404 |
-| **CodeChef** | 500+ | 1316 |
+| **CodeChef** | 500+ | 1341 |
 | **CodeForces** | 25 | 872 |
 
 ##  GitHub Analytics
